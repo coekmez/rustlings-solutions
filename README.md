@@ -1,6 +1,6 @@
 # How to use
 
-This repository only containes the ```exercises/``` directory of the Rustlings repository. Thus, you need to first follow (the installation guide for Rustlings.)[https://rustlings.rust-lang.org/setup/]
+This repository only containes the ```exercises/``` directory of the Rustlings repository. Thus, you need to first follow [the installation guide for Rustlings](https://rustlings.rust-lang.org/setup/).
 
 Then, you can clone this repository in your newly cloned ```rustlings/``` repository.
 
